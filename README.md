@@ -7,3 +7,4 @@ This also includes some experimentation with remaps when specific games are runn
 - [AutoHotkey](https://www.autohotkey.com/)
 - [AutoHotkey docs](https://www.autohotkey.com/docs/AutoHotkey.htm)
 - Keyboard used for testing: [Logitech MX Keys Wireless Illuminated Keyboard](https://www.logitech.com/en-us/product/mx-keys-wireless-keyboard)
+![MX Keys](mx-keys.png)
